@@ -10,7 +10,7 @@ cor3 ="#033dfc"  # blue/azul
 cor4 ="#6f03fc"  # purple/roxo
 cor5 ="#fc0328"  # red/vermelho
 
-
+#TESTE
 
 janela  =Tk()
 janela.title("Calculadora")
