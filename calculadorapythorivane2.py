@@ -5,7 +5,7 @@ from tkinter import *
 # cores
 
 cor1 ="#171715"  # preto
-cor2 ="#FEFEFE"  # branco
+cor2 ="#a5fc03"  # green/verde
 cor3 ="#033dfc"  # blue/azul
 cor4 ="#6f03fc"  # purple/roxo
 cor5 ="#FC6E0F"  # laranja
