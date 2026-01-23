@@ -36,3 +36,4 @@ b_3.place(x=177, y=0)
 janela.mainloop()
 
 # esse é um comentario
+
