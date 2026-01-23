@@ -26,13 +26,12 @@ frame_corpo.grid(row=1, column=0)
 
 # criando botoes 
 
-b_1 = Button(frame_corpo, text="C", width=11, height=2, bg=cor6)
+b_1 = Button(frame_corpo, text="C", width=11, height=2, bg=cor6, font=('Ivy 13  bold'), relief=RAISED, overrelief=RIDGE)
 b_1.place(x=0, y=0)
-b_2 = Button(frame_corpo, text="%", width=5, height=2, bg=cor6)
-b_2.place(x=88, y=0)
-b_3 = Button(frame_corpo, text="/", width=5, height=2, bg=cor5, fg=cor2)
+b_2 = Button(frame_corpo, text="%", width=5, height=2, bg=cor6, font=('Ivy 13  bold'), relief=RAISED, overrelief=RIDGE)
+b_2.place(x=118, y=0)
+b_3 = Button(frame_corpo, text="/", width=5, height=2, bg=cor5,fg=cor7, font=('Ivy 13  bold'), relief=RAISED, overrelief=RIDGE)
 b_3.place(x=177, y=0)
-
 
 janela.mainloop()
 
